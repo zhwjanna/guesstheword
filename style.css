@@ -2,10 +2,18 @@ body {
     background: rgb(255, 255, 255);
     color: #050505;
 }
-canvas {
-    background: #44dce7;
-    padding: 0;
-    margin: 10 auto;
-    margin-bottom: 1rem;
-    display: block;
+
+html {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 10px;
 }
+  
+.box {
+    inline-size: 500px; 
+}
+
+p {
+    font-size: 2rem;
+    text-align: left;
+}
+  
